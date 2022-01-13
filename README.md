@@ -1,4 +1,4 @@
-- QBCore COKE 
+- Qbcore cocaine made by Farhan
 
 <!---
 Haven-Roleplay/Haven-Roleplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
